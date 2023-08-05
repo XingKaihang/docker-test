@@ -1,2 +1,2 @@
-FROM tomcat:9-jdk21-openjdk-slim
+FROM nginx
 RUN echo 'start'
